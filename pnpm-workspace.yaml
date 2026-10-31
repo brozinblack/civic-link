@@ -1,0 +1,4 @@
+allowBuilds:
+  next: true
+  '@swc/core': true
+  esbuild: true
